@@ -1,0 +1,1 @@
+1. Application java-gradle-java11-demo-edp has been successfully deployed!!
